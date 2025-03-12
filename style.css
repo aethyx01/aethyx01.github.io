@@ -1,6 +1,7 @@
 * {
   font-family: cursive;
   color: white;
+  background-image: url("./images/spacebackground.jpeg");
 }
 
 .title {
@@ -8,7 +9,7 @@
 }
 
 header {
-  background-image: url(".images/spacebackground.jpg");
+
 }
 
 .button {
@@ -20,4 +21,5 @@ article {
 }
 
 footer {
-  background-image: url("./images/spacebackground.jpg");
+  
+}
