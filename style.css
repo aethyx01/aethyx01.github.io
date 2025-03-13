@@ -3,7 +3,7 @@
 }
 
 h1 {
-  text-size: 30px;
+  text-size: 36px;
 }
 
 a {
@@ -51,6 +51,7 @@ button {
 
 article {
   background: plum;
+  border-color: white;
 }
 
 footer {
