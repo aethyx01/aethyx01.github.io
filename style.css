@@ -1,12 +1,17 @@
+* {
+  font-family: Andale Mono;
+  color: white;
+}
+
 .message {
-  font-family: Brush Script MT;
+  <!-- font-family: Brush Script MT; -->
 }
 
 body {
   background-image: url("./images/spacebackground.jpg");
   font-family: Andale Mono;
   color: white;
-  text-align: center;
+  <!-- text-align: center; -->
 }
 .title {
 
