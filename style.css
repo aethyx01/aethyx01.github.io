@@ -32,7 +32,8 @@ header {
 button {
   color: white;
   background: plum;
-}
+  border-radius: 6px;
+  padding: 12px 38px;
 
 .button {
   <!-- line-height: 1.5; -->
