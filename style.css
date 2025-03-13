@@ -1,6 +1,10 @@
 * {
-  font-family: cursive;
+  font-family: Andale Mono;
   color: white;
+}
+
+.message {
+  font-family: Brush Script MT;
 }
 
 body {
