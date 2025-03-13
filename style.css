@@ -2,8 +2,12 @@
   font-family: Andale Mono;
 }
 
-img {
+.aupic {
   width: 25vw;
+}
+
+img {
+  width: 50vw;
 }
 
 h1 {
