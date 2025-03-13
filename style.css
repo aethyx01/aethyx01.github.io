@@ -4,10 +4,11 @@
 
 .aupic {
   width: 30vw;
+  height: auto;
 }
 
 img {
-  height: 90vw;
+  height: 50vw;
 }
 
 h1 {
