@@ -29,11 +29,16 @@ header {
   
 }
 
-.button {
-  line-height: 1.5;
-  background: plum;
-  border-color: white;
+button {
   color: white;
+  background: plum;
+}
+
+.button {
+  <!-- line-height: 1.5; -->
+  <!-- background: plum; -->
+  <!-- border-color: white; -->
+  <!-- color: white; -->
 }
 
 article {
