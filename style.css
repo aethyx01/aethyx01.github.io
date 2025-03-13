@@ -11,6 +11,7 @@ body {
   background-image: url("./images/spacebackground.jpg");
   font-family: Andale Mono;
   color: white;
+  width: 50%;
   <!-- text-align: center; -->
 }
 .title {
