@@ -1,6 +1,9 @@
 * {
   font-family: Andale Mono;
-  color: white;
+}
+
+a {
+  color: dark violet;
 }
 
 .message {
@@ -26,6 +29,7 @@ header {
   line-height: 1.5;
   background: plum;
   border-color: white;
+  color: white;
 }
 
 article {
@@ -33,5 +37,5 @@ article {
 }
 
 footer {
-  
+  color: white;
 }
