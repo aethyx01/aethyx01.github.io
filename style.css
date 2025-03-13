@@ -3,12 +3,15 @@
   color: white;
 }
 
+body {
+  background-image: url("./images/spacebackground.jpg");
+
 .title {
 
 }
 
 header {
-  background-image: url("./images/spacebackground.jpg");
+  
 }
 
 .button {
@@ -20,5 +23,5 @@ article {
 }
 
 footer {
-  background-image: url("./images/spacebackground.jpg");
+  
 }
