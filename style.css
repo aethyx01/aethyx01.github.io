@@ -3,7 +3,11 @@
 }
 
 a {
-  color: dark violet;
+ color: white;
+}
+
+#anime {
+  color: #9400D3;
 }
 
 .message {
