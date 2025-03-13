@@ -11,8 +11,7 @@ body {
   background-image: url("./images/spacebackground.jpg");
   font-family: Andale Mono;
   color: white;
-  
-  width: 100vw;
+  <!-- width: 100vw; -->
   <!-- text-align: center; -->
 }
 .title {
@@ -24,7 +23,7 @@ header {
 }
 
 .button {
-  line-height: 2;
+  line-height: 1.5;
   background: plum;
   border-color: white;
 }
