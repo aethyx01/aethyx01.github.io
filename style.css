@@ -2,8 +2,12 @@
   font-family: Andale Mono;
 }
 
+img {
+  width: 25vw;
+}
+
 h1 {
-  text-size: 38px;
+  text-size: 70px;
 }
 
 a {
