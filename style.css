@@ -27,35 +27,18 @@ body {
   background-image: url("./images/spacebackground.jpg");
   font-family: Andale Mono;
   color: white;
-  <!-- width: 100vw; -->
-  <!-- text-align: center; -->
 }
-.title {
-
-}
-
-header {
-  
-}
-
 button {
   color: white;
-  background: #EOBOFF;
+  background: #B47EDE;
   border-radius: 6px;
   padding: 10px 26px;
   font-size: 14px;
   border-color: white;
 }
 
-.button {
-  <!-- line-height: 1.5; -->
-  <!-- background: plum; -->
-  <!-- border-color: white; -->
-  <!-- color: white; -->
-}
-
 article {
-  background: plum;
+  background: #B47EDE;
   border-color: white;
 }
 
