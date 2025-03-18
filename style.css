@@ -36,11 +36,12 @@ button {
 article {
   background: #9846AC;
   border-color: white;
-  border: 5px;
+  border-width: 5px;
 }
 
 .button {
   color: white;
+  font-family: Andale Mono;
 }
 
 footer {
