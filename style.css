@@ -16,7 +16,7 @@ a {
 }
 
 .message {
-  font-family: Apple Chancery;
+  font-family: Lucida Handwriting;
 }
 
 body {
@@ -36,6 +36,11 @@ button {
 article {
   background: #9846AC;
   border-color: white;
+  border: 5px;
+}
+
+.button {
+  color: white;
 }
 
 footer {
