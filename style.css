@@ -19,11 +19,6 @@ a {
   font-family: Lucida Handwriting;
 }
 
-#messages {
-  text align: left;
-  padding-left: 5px;
-}
-
 body {
   background-image: url("./images/spacebackground.jpg");
   font-family: Andale Mono;
