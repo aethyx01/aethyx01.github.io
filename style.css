@@ -40,6 +40,8 @@ article {
   padding-left: 10px;
   pading-right: 5px;
   padding-bottom: 10px;
+  position: relative;
+  top: 100px;
 }
 
 .button {
@@ -52,5 +54,6 @@ footer {
 }
 
 header {
-  <!-- position: fixed; -->
+  position: fixed;
+  background-image: url("./images/spacebackground.jpg");
 }
