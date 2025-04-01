@@ -63,6 +63,6 @@ header {
   top: 0;
 }
 
-.title h2 {
-  padding: 6px auto;
+h2.title {
+  padding: 5px auto;
 }
