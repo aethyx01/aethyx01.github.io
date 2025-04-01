@@ -56,4 +56,5 @@ footer {
 header {
   position: fixed;
   background-image: url("./images/spacebackground.jpg");
+  z-index: 10;
 }
