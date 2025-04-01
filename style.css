@@ -64,5 +64,5 @@ header {
 }
 
 .title h2 {
-  padding-bottom: 7px
+  padding: 6px auto;
 }
