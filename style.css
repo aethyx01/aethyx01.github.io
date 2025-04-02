@@ -41,7 +41,7 @@ article {
   pading-right: 5px;
   padding-bottom: 10px;
   position: relative;
-  top: 90px;
+  top: 80px;
 }
 
 .button {
@@ -51,7 +51,7 @@ article {
 
 footer {
   position: relative;
-  top: 90px;
+  top: 80px;
 }
 
 header {
@@ -65,5 +65,5 @@ header {
 
 h2.title {
   padding: 5px auto;
-  margin: 10px auto;
+  margin: 13px auto;
 }
