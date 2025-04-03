@@ -72,6 +72,7 @@ h2.title {
   top: auto !important;
 }
 
-#space {
-  margin-right: 7px;
+.space {
+  margin-right: 5px;
+  margin-bottom: 3px;
 }
