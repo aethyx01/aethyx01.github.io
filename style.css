@@ -46,12 +46,12 @@ article {
 
 #arti {
   position: relative;
-  top: 75px;
+  top: 77px;
 }
 
 #foot {
   position: relative;
-  top: 77px;
+  top: 79px;
 }
 
 .button {
@@ -84,5 +84,6 @@ h2.title {
 
 .space {
   margin-right: 5px;
-  padding-bottom: 3px;
+  padding-bottom: 4px;
+  margin-bottom: 4px;
 }
