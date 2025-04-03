@@ -44,6 +44,16 @@ article {
   top: 70px;
 }
 
+#arti {
+  position: relative;
+  top: 75px;
+}
+
+#foot {
+  position: relative;
+  top: 77px;
+}
+
 .button {
   color: white;
   font-family: Andale Mono;
@@ -74,5 +84,5 @@ h2.title {
 
 .space {
   margin-right: 5px;
-  margin-bottom: 3px;
+  padding-bottom: 3px;
 }
