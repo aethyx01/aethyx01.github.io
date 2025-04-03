@@ -71,3 +71,7 @@ h2.title {
 #footer {
   top: auto !important;
 }
+
+#space {
+  margin-right: 7px;
+}
