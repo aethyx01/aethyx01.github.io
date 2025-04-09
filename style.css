@@ -101,5 +101,6 @@ h2.title {
 
 #disc {
   width: 50vw;
+  height: auto !important;
   margin: 4px;
 }
