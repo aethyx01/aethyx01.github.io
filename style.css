@@ -98,3 +98,8 @@ h2.title {
   width: 95% !important;
   height: auto !important;
 }
+
+#disc {
+  width: 50vw;
+  margin: 4px;
+}
