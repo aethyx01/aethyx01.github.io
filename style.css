@@ -4,6 +4,10 @@
   margin: 4px;
 }
 
+sub {
+  margin: 6px auto;
+}
+
 img {
   height: 31vw;
 }
