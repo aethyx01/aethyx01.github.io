@@ -5,7 +5,7 @@
 }
 
 sub {
-  margin: 6px auto;
+  margin: 0px auto;
 }
 
 img {
@@ -14,7 +14,7 @@ img {
 
 h1 {
   font-size: 47px;
-  margin: 10px 0px;
+  margin: 9px 0px;
 }
 
 a {
