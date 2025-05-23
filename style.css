@@ -69,6 +69,7 @@ article {
 footer {
   position: relative;
   top: 72px;
+  display: none;
 }
 
 #twt, #sp {
